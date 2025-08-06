@@ -16,6 +16,11 @@
       {
         "command": "vstodo.helloWorld",
         "title": "Hello World"
+      },
+      {
+        "command": "vstodo.askQuestion",
+        "category": "VSToDo",
+        "title": "Ask Question"
       }
     ]
   },
